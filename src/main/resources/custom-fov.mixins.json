@@ -3,7 +3,7 @@
 	"package": "me.aidrob.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"MixinGameOptions"
+		"MixinGameRenderer"
 	],
 	"injectors": {
 		"defaultRequire": 1
