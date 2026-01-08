@@ -5,3 +5,6 @@
 - Source code: public
 - jar: You should check the code yourself and compile it yourself to ensure that I haven't added any malicious code.
 - jar : 1.21.1 - fabric
+
+# license :
+- CC0 1.0 Universal
