@@ -1,11 +1,12 @@
 {
 	"schemaVersion": 1,
-	"id": "custom-fov",
+	"id": "custom-fov-rewrite",
 	"version": "${version}",
 	"name": "Custom Fov",
 	"description": "Increase maximum fov value to 180.",
 	"authors": [
-		"Aidrob"
+		"Aidrob",
+		"3arth3"
 	],
 	"license": "CC0-1.0",
 	"icon": "assets/custom-fov/icon.png",
