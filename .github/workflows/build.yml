@@ -1,11 +1,7 @@
-name: Build Minecraft Mod
+name: CustomFov-rewrite 
 
 on:
-  push:
-    branches:
-      - main  # Hoặc tên branch chính của bạn (ví dụ: master)
-  pull_request:
-  workflow_dispatch: # Dòng này tạo nút bấm thủ công trên GitHub UI
+  workflow_dispatch: 
 
 jobs:
   build:
